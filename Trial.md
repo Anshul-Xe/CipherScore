@@ -1,1 +1,1 @@
-##this is for Desktop configration test.
+##Trial for Desktop setup.
